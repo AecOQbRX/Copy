@@ -28,7 +28,7 @@ Converted["_UICorner"].Parent = Converted["_Frame"]
 Converted["_UIScale"].Parent = Converted["_Frame"]
 
 Converted["_title"].Font = Enum.Font.DenkOne
-Converted["_title"].Text = "CFrame & Position Tools v1.0.0"
+Converted["_title"].Text = "Position Tools v1.999999999MMM"
 Converted["_title"].TextColor3 = Color3.fromRGB(255, 170.0000050663948, 0)
 Converted["_title"].TextSize = 20
 Converted["_title"].TextWrapped = true
@@ -55,7 +55,7 @@ Converted["_position"].Parent = Converted["_Frame"]
 Converted["_textbox"].CursorPosition = -1
 Converted["_textbox"].Font = Enum.Font.GothamBlack
 Converted["_textbox"].PlaceholderColor3 = Color3.fromRGB(42.000001296401024, 0, 69.00000348687172)
-Converted["_textbox"].PlaceholderText = "Enter in something's path EG: game.Workspace.Part.CFrame/Position or nothing to copy your cf/pos"
+Converted["_textbox"].PlaceholderText = "Copy Position Real Not Fake XD"
 Converted["_textbox"].Text = ""
 Converted["_textbox"].TextColor3 = Color3.fromRGB(42.000001296401024, 42.000001296401024, 42.000001296401024)
 Converted["_textbox"].TextScaled = true
